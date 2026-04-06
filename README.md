@@ -1,3 +1,4 @@
+Breast Cancer Classification using ML Models
 This project applies multiple machine learning algorithms—SVM, Logistic Regression, Random Forest, and Naive Bayes—to classify tumors as malignant or benign using the Breast Cancer dataset.
 
 Objectives
